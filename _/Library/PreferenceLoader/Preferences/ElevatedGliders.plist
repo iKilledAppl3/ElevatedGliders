@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = ElevatedGliders;
+	cell = PSLinkCell;
+	detail = ElevatedGlidersListController;
+	icon = ElevatedGliders.png;
+	isController = 1;
+	label = ElevatedGliders;
+    };
+}

@@ -1,0 +1,9 @@
+Package: com.yourcompany.elevatedgliders
+Name: ElevatedGliders
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Play Flappy Bird Anywhere
+Maintainer: BigTimeLegend
+Author: BigTimeLegend
+Section: Tweaks
