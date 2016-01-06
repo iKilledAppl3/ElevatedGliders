@@ -1,3 +1,6 @@
+// Created by BigTimeLegend
+//Edited by iKilledAppl3
+
 #import "ElevatedGliders.h"
 
 @interface ElevatedActivator : NSObject <LAListener> 
