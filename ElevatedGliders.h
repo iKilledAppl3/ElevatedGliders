@@ -10,7 +10,7 @@
 static UIWindow *elevatedWindowMain; //Window for background view 
 UIImageView *bird; //bird image that shows on the screen
 UIImageView *backGround; //background image for Window
-int birdFlight; //birdflight integers for flight
+int birdFlight; //integers for flight of the bird
 UIButton *myButton; //Exit button for user to tap to make the game view disappear
 NSTimer *birdFlying; //time that the bird takes flight in air
 
